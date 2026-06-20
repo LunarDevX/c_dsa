@@ -9,7 +9,7 @@
 
 
 # Bug and Wonder Log
-[Bug and Wonder Log](https://github.com/LunarDevX/c_dsa.wiki.git)
+[Bug and Wonder Log](https://github.com/LunarDevX/c_dsa/wiki/Bug-and-Wonder-Log)
 
 ## Resources 
 [*Simple Memory Representation*](https://cs50.harvard.edu/x/weeks/4/) 
