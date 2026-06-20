@@ -8,5 +8,8 @@
 <img alt="Stack_Heap" src="https://github.com/user-attachments/assets/1e9f8e40-2e21-4e36-9312-ab88a9c51bc5" />
 
 
+# Bug and Wonder Log
+[Bug and Wonder Log](https://github.com/LunarDevX/c_dsa.wiki.git)
+
 ## Resources 
 [*Simple Memory Representation*](https://cs50.harvard.edu/x/weeks/4/) 
